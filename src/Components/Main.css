@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(4, 10, 10);
+}
+.watch {
+  position: absolute;
+  left: 50%;
+  top: 50% !important;
+  transform: translate(-50%, -50%);
+}
+.watch h1 {
+  color: white;
+  font-size: 60px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.watch h4 {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin: 10px 0px;
+}
